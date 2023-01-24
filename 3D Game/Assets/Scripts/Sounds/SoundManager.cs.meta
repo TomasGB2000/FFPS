@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a2e2ccc45d92a4246997e6f77fa31e2a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _shootSound: {fileID: 8300000, guid: b8dc8f9676d368c4daaef34ecfc2af6c, type: 3}
+  - _enemydeathSound: {instanceID: 0}
+  - _winSound: {instanceID: 0}
+  - _loseSound: {instanceID: 0}
+  - _gruntSound: {instanceID: 0}
+  - _keySound: {instanceID: 0}
+  - _keySound1: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

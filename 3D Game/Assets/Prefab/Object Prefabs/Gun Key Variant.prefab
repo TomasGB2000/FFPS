@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8140553264968103917
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1229561910149876597, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1229561910149876597, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.219
+      objectReference: {fileID: 0}
+    - target: {fileID: 1229561910149876597, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.648
+      objectReference: {fileID: 0}
+    - target: {fileID: 1229561910149876597, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 28.275892
+      objectReference: {fileID: 0}
+    - target: {fileID: 1229561910149876597, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7124016
+      objectReference: {fileID: 0}
+    - target: {fileID: 1229561910149876597, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1229561910149876597, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70177203
+      objectReference: {fileID: 0}
+    - target: {fileID: 1229561910149876597, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1229561910149876597, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1229561910149876597, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -89.139
+      objectReference: {fileID: 0}
+    - target: {fileID: 1229561910149876597, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1288155449861161974, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499985398212533660, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616398991374426476, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_Name
+      value: Gun Key
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616398991374426476, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616398991374426476, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_TagString
+      value: InteractiveObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 8824874844987007939, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6089394486230548464, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+--- !u!1 &7392540324301493889 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1616398991374426476, guid: 3f190b3e7506c0541905e860b1a114d1, type: 3}
+  m_PrefabInstance: {fileID: 8140553264968103917}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &496161296
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7392540324301493889}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 45.461098, y: 207.2096, z: 34.503864}
+  m_Center: {x: -11.280632, y: -10.439348, z: 16.751886}
+--- !u!114 &496161295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7392540324301493889}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dc8b8c640b43ec4dbab154c387a75be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  roomDoor: 0
+  roomKey: 0
+  hallwayDoor: 0
+  hallwayKey: 0
+  loungeDoor: 0
+  loungeKey: 0
+  gunDoor: 0
+  gunKey: 1
+  _keyInventory: {fileID: 0}

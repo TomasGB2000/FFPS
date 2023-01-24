@@ -1,0 +1,29 @@
+Assets:
+Furnished Cabin | 3D Urban | Unity Asset Store (no date). Available at: https://assetstore.unity.com/packages/3d/environments/urban/furnished-cabin-71426 (Accessed: 13 June 2022).
+LowPoly Environment Pack | 3D Landscapes | Unity Asset Store (no date). Available at: https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479 (Accessed: 13 June 2022).
+Cyber Monsters 2 | 3D Creatures | Unity Asset Store (no date). Available at: https://assetstore.unity.com/packages/3d/characters/creatures/cyber-monsters-2-161380 (Accessed: 20 June 2022).
+Shelter - House | 3D Environments | Unity Asset Store (no date). Available at: https://assetstore.unity.com/packages/3d/environments/shelter-house-195039 (Accessed: 19 June 2022).
+Guns Pack: Low Poly Guns Collection | 3D Guns | Unity Asset Store (no date). Available at: https://assetstore.unity.com/packages/3d/props/guns/guns-pack-low-poly-guns-collection-192553 (Accessed: 20 June 2022).
+Status of the project (2022). Unity Technologies. Available at: https://github.com/Unity-Technologies/NavMeshComponents (Accessed: 21 June 2022).
+
+
+Sounds:
+ Fordsworthy, A (no date) FreePD.com - Free Public Domain Music Creative Commons 0 Completely Royalty Free. Available at: https://freepd.com/horror.php#google_vignette (Accessed: 16 June 2022).
+ Krux, R(no date) FreePD.com - Free Public Domain Music Creative Commons 0 Completely Royalty Free. Available at: https://freepd.com/horror.php#google_vignette (Accessed: 16 June 2022).
+ Macleod, K(no date) FreePD.com - Free Public Domain Music Creative Commons 0 Completely Royalty Free. Available at: https://freepd.com/horror.php#google_vignette (Accessed: 16 June 2022).
+KuraiWolf (2019) Light Machine Gun, OpenGameArt.org. OpenGameArt.org. Available at: https://opengameart.org/content/light-machine-gun (Accessed: 16 June 2022).
+qubodup (2009) 15 monster grunt/pain/death sounds, OpenGameArt.org. OpenGameArt.org. Available at: https://opengameart.org/content/15-monster-gruntpaindeath-sounds (Accessed: 16 June 2022).
+ n3b (2011) Grunt, OpenGameArt.org. OpenGameArt.org. Available at: https://opengameart.org/content/grunt (Accessed: 16 June 2022).
+spookymodem (2014) Key Jiggle, OpenGameArt.org. OpenGameArt.org. Available at: https://opengameart.org/content/key-jiggle (Accessed: 16 June 2022).
+Indieteur (2017) Nature’s Cry, OpenGameArt.org. OpenGameArt.org. Available at: https://opengameart.org/content/natures-cry (Accessed: 23 June 2022).
+AntumDeluge (2021) Camel Groan, OpenGameArt.org. OpenGameArt.org. Available at: https://opengameart.org/content/camel-groan (Accessed: 25 June 2022).
+Free Pack Woden Planks | 2D Floors | Unity Asset Store (no date). Available at: https://assetstore.unity.com/packages/2d/textures-materials/floors/free-pack-woden-planks-214610 (Accessed: 26 June 2022).
+One-Click Wall Materials | 2D Textures & Materials | Unity Asset Store (no date). Available at: https://assetstore.unity.com/packages/2d/textures-materials/one-click-wall-materials-117123#publisher (Accessed: 26 June 2022).
+
+Code:
+Dave / GameDevelopment(2020)FULL 3D ENEMY AI in 6 MINUTES! || Unity Tutorial, Youtube.Available at:https://www.youtube.com/watch?v=UjkSFoLxesw&list=WL&index=26&t=7s
+BlackThornProd(2017)Follow/Retreat AI,Youtube. Available at:https://www.youtube.com/watch?v=_Z1t7MNk0c4
+Brackeys(2017)Shooting with Raycasts - Unity Tutorial, Youtube. Available at:https://www.youtube.com/watch?v=THnivyG0Mvo
+Brackeys(2017)Credits and Menu, Youtube. Available at:https://www.youtube.com/watch?v=r5NWZoTSjWs
+SpeedTutor(2021)OPENING a DOOR in UNITY with a KEY!,Youtube. Available at:https://www.youtube.com/watch?v=SlEgvvNYXQU
+Brackeys(2017)Health Bar,Youtube Available at:https://www.youtube.com/watch?v=BLfNP4Sc_iA&t=859s
