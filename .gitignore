@@ -63,9 +63,13 @@ Assets/Graphics/
 TextMesh Pro
 Packages
 Library
+ProjectSettings
+Unity Store
+Unity Store Prefabs
 
 #Corresponing META files
 Assets/Graphics.meta
 Assets/TextMesh Pro.meta
 Assets/Library.meta
+
 
